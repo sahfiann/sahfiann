@@ -2,7 +2,7 @@
 
 ## Hi there 👋 I'm Sahrul Alfiansyah
 
-🎓 **Final-Year Computer Science Student (Semester 7)**
+🎓 **Final-Year Computer Science Student **
 🏫 Universitas Pamulang — *Teknik Informatika*
 🎯 **Seeking Internship / Junior Backend Developer Opportunities**
 
